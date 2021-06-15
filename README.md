@@ -3,7 +3,7 @@
 - 👀 I’m interested in Python and AI.
 - 🌱 I’m currently learning Tensorflow.
 - 💞️ I’m looking to collaborate on I don't know yet.
-- 📫 How to reach me ritamgarai31552@gmail.com
+- 📫 How to reach me ritamgarai22@gmail.com
 - My another <a href="https://github.com/Ritam/22"><b>Github</b></a>
 <!---
 Calculator22/Calculator22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
