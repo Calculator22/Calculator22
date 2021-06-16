@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m <u>RITAM GARAI</u>  😉 <u>@Calculator22</u>.
-[![Github](https://img.shields.io/github/followers/Ritam22?style=social)](https://github.com/Ritam22)
+[![Github](https://img.shields.io/github/followers/Ritam22?style=social)](https://github.com/Calculator22)
 - 👀 I’m interested in Python and AI.
 - 🌱 I’m currently learning Tensorflow.
 - 💞️ I’m looking to collaborate on I don't know yet.
