@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ### SOCIALS:
 <a href="https://www.linkedin.com/in/ritam-garai-8b27111a7/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-### FAMILIER PROGRAMMING LANGUAGES:
+### FAMILIAR PROGRAMMING LANGUAGES:
 
 <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <div>
-<h3>FAMILIER DATABASE:</h3>
+<h3>FAMILIAR DATABASE:</h3>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 </div>
 
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### FAMILIER PLATFORM:
+### FAMILIAR PLATFORM:
 
 <img align="left" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 
 ![image](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 
-### FAMILIER FRONTEND TECHNOLOGIES:
+### FAMILIAR FRONTEND TECHNOLOGIES:
 
 <img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
